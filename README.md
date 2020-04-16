@@ -5,7 +5,20 @@ giving more details about the code's features. It only includes the
 PDF of my lecture slides `slides.pdf`. Take a look at the `samples`
 folder from the last lecture.
 
-I also offer an (optional) exercise for Friday:
+I also offer an (optional) exercise for Friday below the list
+of videos.
+
+## Video Links
+
+`Slide 01` [Part 01. Review of `class Cmpx`](https://ensemble.reed.edu/Watch/Xf6e3TEo) *05m00s*  
+`Slide 08` [Part 02. Client Syntax](https://ensemble.reed.edu/Watch/s4H5ZcAa) *05m00s*  
+`Slide 13` [Part 03. Stack Instance Initialization](https://ensemble.reed.edu/Watch/Qg62Cfi8) *08m30s*  
+`Slide 26` [Part 04. Class Specification](https://ensemble.reed.edu/Watch/x6PSo7j5) *04m00s*  
+`Slide 34` [Part 05. Menthod Implementation](https://ensemble.reed.edu/Watch/Tx84Soe5) *07m30s*  
+`Slide 52` [Part 06. Constructor Implementation](https://ensemble.reed.edu/Watch/t6G2Aqb8) *04m00s*  
+`Slide 55` [Part 07. Member Access Control](https://ensemble.reed.edu/Watch/r9G7KdLb) *08m30s*  
+`Slide 64` [Part 08. Static Members](https://ensemble.reed.edu/Watch/n9B7QpTr) *06m30s* **NOTE: corrected in 10-1**  
+`Slide 71` [Part 09. Wrap-Up](https://ensemble.reed.edu/Watch/Nj4z5H7B) *03m00s*  
 
 ## Exercise
 
